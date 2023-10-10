@@ -1,13 +1,11 @@
-Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+ASP.NET Core REST API CQRS implementation with SQL and DDD using Clean Architecture.
 ==============================================================
 
 ## CI
 
 ![](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api/workflows/Build%20Pipeline/badge.svg)
 
-## Give a Star! :star:
-
-If you like this project, learn something or you are using it in your applications, please give it a star. Thanks!
+For more samples visit  :  [Manojkke](https://github.com/manojkke). 
 
 ## Description
 Sample .NET Core REST API application implemented with basic [CQRS](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/cqrs) approach and Domain Driven Design.
